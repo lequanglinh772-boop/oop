@@ -11,11 +11,11 @@ namespace demo
             private static void Main(string[] args)
             {
 
-                string hoTen = "Lưu Hoàng Tùng";
-                string maSV = "12424034";
+                string hoTen = "Lê Quang Linh";
+                string maSV = "12424018";
                 string lop = "124241";
-                string github = "hoangtung-123";
-                string email = "luuhoangtung2710@gmail.com";
+                string github = "lequanglinh772";
+                string email = "lequanglinh@gmail.com";
 
 
                 Console.WriteLine(hoTen + "\t" + maSV + "\t" + lop + "\t" + github + "\t" + email);
